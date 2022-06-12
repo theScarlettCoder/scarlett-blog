@@ -1,0 +1,21 @@
+
+body {
+    background: #0e9d57;
+}
+.posts_container {
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+
+@media screen and (max-width: 600px ) {
+    .posts_container {
+        
+    }
+}

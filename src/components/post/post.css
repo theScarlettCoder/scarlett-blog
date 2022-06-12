@@ -1,0 +1,24 @@
+
+.post_container {
+    background: #e2e8d5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3%;
+    margin: 0 2%;
+    box-shadow: 5px 10px 8px rgb(112, 112, 112);
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.heading {
+    height: 126px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.image {
+    width: 100%;
+    height: 210px;
+}
